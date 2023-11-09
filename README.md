@@ -1,5 +1,5 @@
 # Machine-Learning
-Note* the data frame CSV was too big to upload thus i had to zip it up before uploading it. 
+Note* the data frame CSV was too big to upload thus i had to zip it up before uploading it. Please Unzip new_data_urls and put it into the project file along with the test CSV. 
 
 Refrences:
 
